@@ -1,0 +1,14 @@
+No OPENAI_API_KEY set. Use Cursor (or any AI editor) to complete the naming step:
+
+1. Open this prompt file in your editor:
+   /Users/chetan/Documents/propage/matrukrupa.in/rename-prompt.md
+
+2. Paste the entire content into Cursor (or your AI assistant) and ask it to generate the JSON mapping.
+
+3. Save the assistant's JSON response to a file in this folder, e.g.:
+   /Users/chetan/Documents/propage/matrukrupa.in/rename-mapping.json
+
+4. Apply the renames by running (from the propage directory):
+   python scripts/rename_with_ai.py matrukrupa.in --apply-mapping matrukrupa.in/rename-mapping.json
+
+Optional: set OPENAI_API_KEY to skip this and use the API automatically.
