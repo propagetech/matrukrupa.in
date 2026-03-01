@@ -1252,7 +1252,7 @@ var Viamagus_Website_Loader =  {
 		feedHtml = feedHtml +'<h4 class="vm-twitter-hashtag">'+tweetObj.postedBy+'</h4>';
 		feedHtml = feedHtml +'</div>';
 		feedHtml = feedHtml +'<div class="span2">';
-		feedHtml = feedHtml +'<img class="vm-twitter-bird" src="imgs/b5721aca08135b6e061e17fae4016faa.png">';
+		feedHtml = feedHtml +'<img class="vm-twitter-bird" src="imgs/b5721aca08135b6e061e17fae4016faa.webp">';
 		feedHtml = feedHtml +'</div>';
 		feedHtml = feedHtml +'</div>';	 
 		
@@ -1957,7 +1957,7 @@ var Viamagus_Website_Loader =  {
 
 	},
     showDirections:function(userLocationLatLng){
-		var mp_marker_url = "imgs/b0dc1228f2c289cb6d03084943206cf0.png";
+		var mp_marker_url = "imgs/b0dc1228f2c289cb6d03084943206cf0.webp";
 	    var mp_marker_w = 75;
 	    var mp_marker_h = 103;
 	    var mp_marker_title = "M";
