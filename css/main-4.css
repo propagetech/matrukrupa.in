@@ -5104,7 +5104,7 @@ padding:0px !important;
 
 .viamagus-play-video-icon {
 border: 0;
-background: url('imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp') no-repeat top right;
+background: url('imgs/image-3.webp') no-repeat top right;
 right: 40%;
 position: absolute;
 top: 36%;
@@ -8076,73 +8076,73 @@ share-button .sb-social li[class*=email] {
     background: #42c5b0
 }
 share-button .sb-social li[class*=email]:before {
-    background-image: url('imgs/b9832ce1e3dabce86326d05cacb89f43.svg')
+    background-image: url('imgs/image-143.svg')
 }
 share-button .sb-social li[class*=email]:after {
-    background-image: url('imgs/b9832ce1e3dabce86326d05cacb89f43.svg')
+    background-image: url('imgs/image-143.svg')
 }
 share-button .sb-social li[class*=facebook] {
     background: #3b5998
 }
 share-button .sb-social li[class*=facebook]:before {
-    background-image: url('imgs/a490f104164a21f043b30ed302f2b591.svg')
+    background-image: url('imgs/image-125.svg')
 }
 share-button .sb-social li[class*=facebook]:after {
-    background-image: url('imgs/a490f104164a21f043b30ed302f2b591.svg')
+    background-image: url('imgs/image-125.svg')
 }
 share-button .sb-social li[class*=googlePlus] {
     background: #e34429
 }
 share-button .sb-social li[class*=googlePlus]:before {
-    background-image: url('imgs/778ce088b476a3490d58caa02448e0e9.svg')
+    background-image: url('imgs/image-94.svg')
 }
 share-button .sb-social li[class*=googlePlus]:after {
-    background-image: url('imgs/778ce088b476a3490d58caa02448e0e9.svg')
+    background-image: url('imgs/image-94.svg')
 }
 share-button .sb-social li[class*=linkedin] {
     background: #4875b4
 }
 share-button .sb-social li[class*=linkedin]:before {
-    background-image: url('imgs/3e39582987706d41db721482687f8a62.svg')
+    background-image: url('imgs/image-39.svg')
 }
 share-button .sb-social li[class*=linkedin]:after {
-    background-image: url('imgs/3e39582987706d41db721482687f8a62.svg')
+    background-image: url('imgs/image-39.svg')
 }
 share-button .sb-social li[class*=pinterest] {
     background: #c5282f
 }
 share-button .sb-social li[class*=pinterest]:before {
-    background-image: url('imgs/bc26b60905a3cde8bd01d4872187a47a.svg')
+    background-image: url('imgs/image-148.svg')
 }
 share-button .sb-social li[class*=pinterest]:after {
-    background-image: url('imgs/bc26b60905a3cde8bd01d4872187a47a.svg')
+    background-image: url('imgs/image-148.svg')
 }
 share-button .sb-social li[class*=reddit] {
     background: #a1caf2
 }
 share-button .sb-social li[class*=reddit]:before {
-    background-image: url('imgs/98d048157833e846710898487cf450dc.svg')
+    background-image: url('imgs/image-115.svg')
 }
 share-button .sb-social li[class*=reddit]:after {
-    background-image: url('imgs/98d048157833e846710898487cf450dc.svg')
+    background-image: url('imgs/image-115.svg')
 }
 share-button .sb-social li[class*=twitter] {
     background: #6cdfea
 }
 share-button .sb-social li[class*=twitter]:before {
-    background-image: url('imgs/c1ec2177520de19f711646ff95f865e6.svg')
+    background-image: url('imgs/image-152.svg')
 }
 share-button .sb-social li[class*=twitter]:after {
-    background-image: url('imgs/c1ec2177520de19f711646ff95f865e6.svg')
+    background-image: url('imgs/image-152.svg')
 }
 share-button .sb-social li[class*=whatsapp] {
     background: #4dc247
 }
 share-button .sb-social li[class*=whatsapp]:before {
-    background-image: url('imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg')
+    background-image: url('imgs/image-150.svg')
 }
 share-button .sb-social li[class*=whatsapp]:after {
-    background-image: url('imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg')
+    background-image: url('imgs/image-150.svg')
 }
 
 /* blog subscribe css */
@@ -8450,7 +8450,7 @@ div.thumbelina-but img{
     font-style: normal;
 
     src: url('fonts/d0a83e6fa8f336210086b0318c03c7e3.eot');
-    src: url('fonts/845088f13b79229c74130a71f705373d.eot') format('embedded-opentype'), url('fonts/ebfec6932f63b43a08c6f1cb706f4b5e.woff') format('woff'), url('fonts/5ae7a02939d8949c48c2af613d1729f3.ttf') format('truetype'), url('imgs/371cd9c4752fd50d6a72cd0cba994035.svg') format('svg');
+    src: url('fonts/845088f13b79229c74130a71f705373d.eot') format('embedded-opentype'), url('fonts/ebfec6932f63b43a08c6f1cb706f4b5e.woff') format('woff'), url('fonts/5ae7a02939d8949c48c2af613d1729f3.ttf') format('truetype'), url('imgs/image-36.svg') format('svg');
 }
 /* Arrows */
 .slick-prev,
