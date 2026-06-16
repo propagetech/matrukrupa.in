@@ -1,45 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.matrukrupa.in/index.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <loc>https://www.matrukrupa.in/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.matrukrupa.in/404.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <loc>https://www.matrukrupa.in/about/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.matrukrupa.in/about-us.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <loc>https://www.matrukrupa.in/services/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.matrukrupa.in/work/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.matrukrupa.in/clients.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <loc>https://www.matrukrupa.in/faq/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.matrukrupa.in/contact-us.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <loc>https://www.matrukrupa.in/contact/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.matrukrupa.in/Rare-Rabbit-Pics.html</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.matrukrupa.in/services.html</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 </urlset>

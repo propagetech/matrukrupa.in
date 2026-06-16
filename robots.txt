@@ -1,5 +1,5 @@
-<html>
- <body>
-  User-agent: * Sitemap: http://www.matrukrupa.in
- </body>
-</html>
+User-agent: *
+Allow: /
+Disallow: /archive/
+
+Sitemap: https://www.matrukrupa.in/sitemap.xml

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="An illuminated backlit brand sign and store branding">
+  <defs>
+    <style>
+      .slate{fill:#2a323b}.gold{fill:#cda23f}.goldL{fill:#dcbb6b}.mag{fill:#a8328f}.cream{fill:#f6f1e7}.cream2{fill:#e9e1cf}.line{fill:none;stroke:#2a323b;stroke-width:3}
+    </style>
+  </defs>
+  <!-- floor -->
+  <rect x="0" y="316" width="480" height="6" class="gold"/>
+  <!-- wall -->
+  <rect x="48" y="56" width="384" height="260" class="cream2"/>
+  <!-- backlit signage box -->
+  <rect x="96" y="96" width="288" height="96" rx="10" class="slate"/>
+  <!-- glow -->
+  <rect x="106" y="106" width="268" height="76" rx="6" class="goldL" opacity="0.25"/>
+  <!-- sign lettering blocks -->
+  <rect x="128" y="126" width="34" height="38" rx="4" class="cream"/>
+  <rect x="172" y="126" width="34" height="38" rx="4" class="cream"/>
+  <circle cx="240" cy="145" r="20" class="mag"/>
+  <rect x="276" y="126" width="34" height="38" rx="4" class="cream"/>
+  <rect x="320" y="126" width="34" height="38" rx="4" class="cream"/>
+  <!-- light rays -->
+  <g stroke="#dcbb6b" stroke-width="4" stroke-linecap="round">
+    <line x1="240" y1="64" x2="240" y2="84"/>
+    <line x1="160" y1="74" x2="170" y2="90"/>
+    <line x1="320" y1="74" x2="310" y2="90"/>
+  </g>
+  <!-- ACP cladding panels below -->
+  <rect x="96" y="216" width="86" height="74" rx="4" class="gold"/>
+  <rect x="186" y="216" width="86" height="74" rx="4" class="cream"/>
+  <rect x="186" y="216" width="86" height="74" rx="4" class="line"/>
+  <rect x="276" y="216" width="86" height="74" rx="4" class="gold"/>
+  <!-- panel seams -->
+  <line x1="96" y1="253" x2="362" y2="253" stroke="#2a323b" stroke-width="2" opacity="0.5"/>
+</svg>

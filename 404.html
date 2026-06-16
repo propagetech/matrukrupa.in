@@ -1,28 +1,70 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8"/>
-<title>
-</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;family=Quicksand:wght@300..700&amp;display=swap" rel="stylesheet"/><link href="css/main-5.css" rel="stylesheet"/>
-<link href="css/main-3.css" rel="stylesheet"/><link href="css/internal-styles.css" rel="stylesheet"/><style>/* Default fonts: Playfair Display for headings, Quicksand for body (change_default_fonts.py) */
-body, html, .viamagusPageSettings, .viamagusPageSettings .viamagus-container { font-family: 'Quicksand', sans-serif; }
-h1, h2, h3, h4, h5, h6,
-.viamagus-heading1, .viamagus-heading2, .viamagus-heading3, .viamagus-section-heading { font-family: 'Playfair Display', serif; }</style>
-<script o="" src="js/404.js" type="text/javascript">
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found | Matrukrupa Enterprise</title>
+<meta name="description" content="The page you were looking for could not be found. Return to the Matrukrupa Enterprise home page or get in touch.">
+<meta name="robots" content="noindex">
+
+<link rel="icon" href="/imgs/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/imgs/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/imgs/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#232a32">
+
+<link rel="stylesheet" href="/css/main.css">
+<style>
+  .nf-wrap{min-height:80vh;display:flex;align-items:center}
+  .nf-code{font-family:var(--ff-head);font-weight:800;font-size:clamp(4rem,3rem + 10vw,9rem);
+    line-height:1;color:var(--gold-on-dark);letter-spacing:-.03em}
+</style>
 </head>
 <body>
-<div class="container-fluid viamagus-errorpage">
-<h1 class="errorpage404">
-    404
-   </h1>
-<h2 class="errorpageheader">
-    Page Not Found
-   </h2>
-<a class="btn btn-large" href="home.html">
-    Return to homepage
-   </a>
-</div>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="container wide bar">
+    <a class="brand" href="/" aria-label="Matrukrupa Enterprise, home">
+      <img src="/imgs/logo.webp" alt="" width="38" height="38">
+      <span class="bn"><b>Matrukrupa</b><span>Enterprise</span></span>
+    </a>
+    <nav class="nav" aria-label="Primary" style="display:flex">
+      <a href="/about/">About</a>
+      <a href="/services/">Services</a>
+      <a href="/work/">Work</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="cta-band nf-wrap">
+    <div class="container">
+      <p class="nf-code">404</p>
+      <p class="eyebrow">Page not found</p>
+      <h1 style="color:#fff">We couldn't find that page</h1>
+      <p>The link may be out of date, or the page may have moved. Let's get you back on track.</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="/">Back to home
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+        <a class="btn btn-secondary" href="/contact/">Contact us</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container wide">
+    <div class="bottom" style="border-top:none">
+      <span>&copy; <span data-year>2026</span> Matrukrupa Enterprise. All rights reserved.</span>
+      <a href="/">Home</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/js/main.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Matrukrupa Enterprise">
+  <rect width="256" height="256" rx="56" fill="#d0b050"/>
+  <!-- slate crescent -->
+  <path d="M104 40A88 88 0 1 0 104 216 72 72 0 0 1 104 40Z" fill="#2a323b"/>
+  <!-- magenta disc -->
+  <circle cx="142" cy="128" r="58" fill="#a8328f"/>
+  <circle cx="142" cy="128" r="58" fill="none" stroke="#f6f1e7" stroke-width="6"/>
+  <!-- the "m" -->
+  <path d="M116 154V102h11l15 21 15-21h11v52h-13v-31l-13 17-13-17v31Z" fill="#f6f1e7"/>
+</svg>

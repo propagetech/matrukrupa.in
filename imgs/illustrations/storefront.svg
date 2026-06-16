@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="A finished retail store front with display windows">
+  <defs>
+    <style>
+      .slate{fill:#2a323b}.gold{fill:#cda23f}.goldL{fill:#dcbb6b}.mag{fill:#a8328f}.cream{fill:#f6f1e7}.cream2{fill:#e9e1cf}.line{fill:none;stroke:#2a323b;stroke-width:3}
+    </style>
+  </defs>
+  <!-- floor -->
+  <rect x="0" y="312" width="480" height="6" class="gold"/>
+  <!-- store facade -->
+  <rect x="70" y="86" width="340" height="226" class="cream2"/>
+  <!-- fascia / signage band -->
+  <rect x="70" y="86" width="340" height="46" class="slate"/>
+  <rect x="196" y="100" width="88" height="18" rx="4" class="goldL"/>
+  <circle cx="172" cy="109" r="11" class="mag"/>
+  <!-- left display window -->
+  <rect x="92" y="150" width="118" height="150" class="cream"/>
+  <rect x="92" y="150" width="118" height="150" class="line"/>
+  <!-- mannequin / shelves -->
+  <rect x="104" y="176" width="44" height="100" rx="6" class="gold"/>
+  <rect x="160" y="200" width="38" height="76" class="slate"/>
+  <rect x="166" y="210" width="26" height="10" class="goldL"/>
+  <rect x="166" y="228" width="26" height="10" class="cream2"/>
+  <rect x="166" y="246" width="26" height="10" class="goldL"/>
+  <!-- entrance / right glass door -->
+  <rect x="226" y="150" width="160" height="150" class="cream"/>
+  <rect x="226" y="150" width="160" height="150" class="line"/>
+  <line x1="306" y1="150" x2="306" y2="300" class="line"/>
+  <rect x="246" y="186" width="44" height="9" class="gold"/>
+  <rect x="246" y="206" width="44" height="9" class="cream2"/>
+  <rect x="246" y="226" width="44" height="9" class="gold"/>
+  <rect x="246" y="246" width="44" height="9" class="cream2"/>
+  <rect x="322" y="186" width="44" height="9" class="gold"/>
+  <rect x="322" y="206" width="44" height="9" class="cream2"/>
+  <rect x="322" y="226" width="44" height="9" class="gold"/>
+  <rect x="322" y="246" width="44" height="9" class="cream2"/>
+  <!-- awning accent -->
+  <path d="M70 132 h340 l-14 22 h-312 Z" class="mag" opacity="0.92"/>
+  <!-- spotlights -->
+  <circle cx="120" cy="70" r="7" class="goldL"/>
+  <circle cx="240" cy="62" r="7" class="goldL"/>
+  <circle cx="360" cy="70" r="7" class="goldL"/>
+</svg>
