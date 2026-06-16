@@ -123,11 +123,8 @@ strong{font-weight:700;color:var(--ink)}
 .site-header{position:sticky;top:0;z-index:100;background:rgba(246,241,231,.88);
   backdrop-filter:saturate(140%) blur(10px);border-bottom:1px solid var(--line)}
 .site-header .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:70px;padding-block:.5rem}
-.brand{display:inline-flex;align-items:center;gap:.6rem;text-decoration:none;color:var(--ink);font-family:var(--ff-head);font-weight:800}
-.brand img{width:38px;height:38px}
-.brand .bn{display:flex;flex-direction:column;line-height:1}
-.brand .bn b{font-size:1.08rem;letter-spacing:-.02em}
-.brand .bn span{font-size:.62rem;font-weight:700;letter-spacing:.18em;color:var(--bronze-ink);text-transform:uppercase;margin-top:3px}
+.brand{display:inline-flex;align-items:center;line-height:0;text-decoration:none}
+.brand-logo{display:block;height:40px;width:auto;border-radius:8px}
 .nav{display:flex;align-items:center;gap:.25rem}
 .nav a:not(.btn){font-family:var(--ff-head);font-weight:600;font-size:.97rem;color:var(--ink-2);text-decoration:none;
   padding:.5rem .8rem;border-radius:var(--radius-sm);transition:color .15s,background .15s}
@@ -323,8 +320,7 @@ strong{font-weight:700;color:var(--ink)}
 /* ----- Footer ----- */
 .site-footer{background:var(--slate-2);color:var(--cream-muted)}
 .site-footer .top{display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:2rem;padding-block:clamp(2.6rem,5vw,3.6rem)}
-.site-footer .brand{color:#fff}
-.site-footer .brand .bn span{color:var(--gold-on-dark)}
+.brand-col .brand-logo{height:52px;border-radius:10px}
 .site-footer p{color:var(--cream-muted);font-size:.96rem;max-width:38ch}
 .site-footer h4{font-family:var(--ff-head);color:#fff;font-size:.82rem;letter-spacing:.1em;text-transform:uppercase;margin:0 0 1rem}
 .site-footer ul{list-style:none;padding:0;margin:0;display:grid;gap:.55rem}
@@ -394,7 +390,6 @@ strong{font-weight:700;color:var(--ink)}
   .stats{grid-template-columns:1fr 1fr}
   .fab span{display:none}
   .fab{padding:.85rem;border-radius:50%}
-  .brand .bn span{display:none}
 }
 
 @media (prefers-reduced-motion:reduce){
